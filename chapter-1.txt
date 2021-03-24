@@ -7,5 +7,5 @@ we want to comfortably analyze data, visualization will be helpful to reduce the
 
 Question 2 - What is the difference between medium and large data?
 Answer - Large data have more number of observations(rows) compare to medium data. Large data usually have thousand of 
-observations and analyzing them may require 2D or 3D visualization. The traditional approach to work on large data is summarizing
-them to the size of medium data and then make a visual chart or graph.
+observations and analyzing them may require 2D or 3D or some kind of interactive visualization. The traditional approach to work
+on large data is summarizing them to the size of medium data and then make a visual chart or graph.
